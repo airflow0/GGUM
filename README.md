@@ -32,3 +32,6 @@ Hamilton Monte Carlo Settings
 750 Burn-In Steps
 Step_Size: 0.001
 
+
+
+For a detailed process of the algorithms used, please visit: https://teams.microsoft.com/_?tenantId=45f26ee5-f134-439e-bc93-e6c7e33d61c2#/school/tab::6d287bc5-9f86-4b1f-96f8-1711c8c3cce4/General?threadId=19:a034b0d92b794ed6843e07f8a1641aab@thread.tacv2&ctx=channel
